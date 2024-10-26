@@ -15,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senselesscore&show_icons=true&locale=en" alt="senselesscore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senselesscore&" alt="senselesscore" /></p>
+![snake gif](https://github.com/SenselessCore/SenselessCore/blob/output/github-contribution-grid-snake.gif)
