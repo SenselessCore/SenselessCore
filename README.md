@@ -1,6 +1,6 @@
 ![Masthead](https://i.pinimg.com/originals/ee/7a/41/ee7a411661f469ba26f64e2aadcc4698.jpg)
 <h1 align="center">Hi 👋, I'm Senseless</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
